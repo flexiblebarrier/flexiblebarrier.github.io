@@ -8,7 +8,7 @@
 
 .elasticstack {
 	position: relative;
-	margin: 50px auto;
+	margin: 0px auto;
 	padding: 20px 0 0 0;
 	width: 340px;
 	height: 380px;
@@ -17,7 +17,7 @@
 	-webkit-perspective-origin: 50% 150%;
 	perspective: 1000px;
 	perspective-origin: 50% 150%;
-	padding-left: 500px;
+	/*padding-left: 500px;*/
 }
 
 .no-js .elasticstack {
